@@ -18,7 +18,7 @@ uv add pyjiraV3
 Or install from source:
 
 ```bash
-git clone https://github.com/your-org/pyJira.git
+git clone https://github.com/faulander/pyJira.git
 cd pyJira
 uv sync
 ```
