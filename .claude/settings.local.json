@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "mcp__acp__Write",
-      "mcp__acp__Bash"
+      "mcp__acp__Bash",
+      "WebFetch(domain:developer.atlassian.com)",
+      "WebFetch(domain:docs.atlassian.com)",
+      "mcp__acp__Edit"
     ]
   }
 }
