@@ -1,4 +1,4 @@
-# pyJira
+# pyJiraV3
 
 A modern, fully-typed Python client for the [Jira Cloud REST API v3](https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/).
 
@@ -12,7 +12,7 @@ Built on [httpx](https://www.python-httpx.org/) and [Pydantic v2](https://docs.p
 ## Installation
 
 ```bash
-uv add pyjira
+uv add pyjiraV3
 ```
 
 Or install from source:
