@@ -533,7 +533,7 @@ src/pyjira/
 ### Setup
 
 ```bash
-git clone https://github.com/your-org/pyJira.git
+git clone https://github.com/faulander/pyJira.git
 cd pyJira
 uv sync --all-extras
 ```
