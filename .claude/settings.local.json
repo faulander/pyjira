@@ -5,7 +5,8 @@
       "mcp__acp__Bash",
       "WebFetch(domain:developer.atlassian.com)",
       "WebFetch(domain:docs.atlassian.com)",
-      "mcp__acp__Edit"
+      "mcp__acp__Edit",
+      "WebFetch(domain:docs.readthedocs.com)"
     ]
   }
 }
