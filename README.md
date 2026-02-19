@@ -1,6 +1,10 @@
 # pyJiraV3
 
+[![Documentation Status](https://readthedocs.org/projects/pyjirav3/badge/?version=latest)](https://pyjirav3.readthedocs.io/en/latest/index.html)
+
 A modern, fully-typed Python client for the [Jira Cloud REST API v3](https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/).
+
+📖 **[Full Documentation](https://pyjirav3.readthedocs.io/en/latest/index.html)**
 
 Built on [httpx](https://www.python-httpx.org/) and [Pydantic v2](https://docs.pydantic.dev/latest/). Supports both synchronous and asynchronous usage.
 
@@ -137,7 +141,7 @@ The client exposes 23 resource attributes, each mapping to a Jira API group:
 | **Versions** | `client.versions` | Version CRUD, merge, move |
 | **Workflows** | `client.workflows` | Workflow and scheme management |
 
-> For detailed documentation on every resource and method, see the [Wiki](https://github.com/faulander/pyjira/wiki).
+> For detailed documentation on every resource and method, see the [full documentation](https://pyjirav3.readthedocs.io/en/latest/index.html).
 
 ---
 
@@ -272,7 +276,7 @@ print(project.name, project.lead.display_name)
 
 ### More Resources
 
-For detailed usage of all 23 resources including components, dashboards, filters, groups, permissions, priorities, resolutions, roles, screens, statuses, versions, workflows, and more, see the **[Wiki](https://github.com/faulander/pyjira/wiki)**.
+For detailed usage of all 23 resources including components, dashboards, filters, groups, permissions, priorities, resolutions, roles, screens, statuses, versions, workflows, and more, see the **[full documentation](https://pyjirav3.readthedocs.io/en/latest/index.html)**.
 
 ---
 
